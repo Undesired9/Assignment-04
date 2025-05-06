@@ -1,0 +1,5 @@
+c:\users\user\onedrive\documents\visual studio 2012\Projects\CIITStudent\CIITStudent\bin\CIITStudent.dll
+c:\users\user\onedrive\documents\visual studio 2012\Projects\CIITStudent\CIITStudent\bin\CIITStudent.pdb
+c:\users\user\onedrive\documents\visual studio 2012\Projects\CIITStudent\CIITStudent\obj\Debug\CIITStudent.csprojResolveAssemblyReference.cache
+c:\users\user\onedrive\documents\visual studio 2012\Projects\CIITStudent\CIITStudent\obj\Debug\CIITStudent.dll
+c:\users\user\onedrive\documents\visual studio 2012\Projects\CIITStudent\CIITStudent\obj\Debug\CIITStudent.pdb
